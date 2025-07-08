@@ -1,0 +1,7 @@
+{
+  "name": "Speech Intelligence AI",
+  "description": "An application that processes user-uploaded audio files to provide transcription, summarization, grammar analysis, and sentiment analysis using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
